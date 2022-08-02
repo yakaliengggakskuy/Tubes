@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742500441969",
+    "project_id": "waqtu-dc686",
+    "storage_bucket": "waqtu-dc686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742500441969:android:0d8948b5e645e0e415e0d0",
+        "android_client_info": {
+          "package_name": "com.waqtuindonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742500441969-llf79vll682o3qajmlsdcg5k7hantr7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRePKe8CNH69nVfYWiZjicd9W0oA8PWsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742500441969-llf79vll682o3qajmlsdcg5k7hantr7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
